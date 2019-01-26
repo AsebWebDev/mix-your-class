@@ -1,0 +1,15 @@
+{
+  "name": "mixyourclass",
+  "version": "1.0.0",
+  "description": "A little helper to set groups in your class",
+  "main": "main.js",
+  "dependencies": {
+    "semantic-ui-form": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Sebastian",
+  "license": "ISC"
+}
